@@ -13,6 +13,7 @@ class Shoe
     if shoe.condition = "old"
       shoe.cobble
       puts "new"
+    end
   end
     
 end
